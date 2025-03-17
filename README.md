@@ -1,4 +1,6 @@
-## Oi, me chamo Douglas e atualmente sou um estudante de Ciência da Computação (Estou no 5° semestre)
+## Oi, me chamo Douglas e atualmente sou um estudante de Ciência da Computação (Estou no 5° semestre).
+
+Alguma hora ou outra eu deixo o meu perfil mais bonitinho...
 
 <!--
 **DouglasSLopes/DouglasSLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
